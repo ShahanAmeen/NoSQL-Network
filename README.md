@@ -10,10 +10,11 @@ In this assignment I've demonstrated in the connection between the connections.j
 
 
 ## URL
-https://github.com/ShahanAmeen/NoSQL-Network
+https://github.com/ShahanAmeen/NoSQL-Network,
+ https://shahanameen.github.io/NoSQL-Network/
 ## Author
 Shahan Ameen
 https://github.com/ShahanAmeen 
 
- https://shahanameen.github.io/NoSQL-Network/
+
 
